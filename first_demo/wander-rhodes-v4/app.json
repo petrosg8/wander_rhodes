@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Wander Rhodes",
+    "slug": "wander-rhodes",
+    "version": "0.2.0",
+    "sdkVersion": "50.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  }
+}
